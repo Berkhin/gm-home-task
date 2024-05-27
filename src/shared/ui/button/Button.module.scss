@@ -1,0 +1,13 @@
+.button {
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.active{
+    background-color: yellow;
+}
+
+.disabled{
+    background-color: white;
+}

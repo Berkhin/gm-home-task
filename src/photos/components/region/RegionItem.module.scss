@@ -1,0 +1,15 @@
+.region {
+  position: absolute;
+  background-color: white;
+  border-radius: 15px;
+  border: 1px solid red;
+}
+
+.region p {
+  color: blue;
+}
+
+.buttonsBlock {
+  display: flex;
+  flex-direction: column;
+}

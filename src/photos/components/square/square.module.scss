@@ -1,0 +1,26 @@
+.topLeft {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    cursor: nwse-resize;
+    top: 0;
+    left: 0;
+  };
+
+.bottomRight {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    cursor: nwse-resize;
+    bottom: 0;
+    right: 0;
+  };
+
+  .square_container {
+    position: absolute;
+    border: 1px solid red;
+    background-color: red;
+    opacity: 0.5;
+  }
